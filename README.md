@@ -119,8 +119,10 @@ Ctl - обычный контрол. В отличие от клавиши wCtl 
 
 ## Реализации раскладки
 
-- Прошивка QMK для клавиатуры JORNE. [Репозитарий](https://github.com/utyv/qmk_firmware/tree/jrn-klbk/keyboards/jorne/keymaps/kolobok)
-- Прошивка QMK для клавиатуры DACTYL MANUFORM 4x5. [Репозитарий](https://github.com/utyv/qmk_firmware/tree/dactyl_klbk/keyboards/handwired/dactyl_manuform/4x5/keymaps/klbk)
+- Прошивка QMK для клавиатуры JORNE (не обновляется). [Репозитарий](https://github.com/utyv/qmk_firmware/tree/jrn-klbk/keyboards/jorne/keymaps/kolobok)
+- Прошивка QMK для клавиатуры DACTYL MANUFORM 4x5 (не обновляется). [Репозитарий](https://github.com/utyv/qmk_firmware/tree/dactyl_klbk/keyboards/handwired/dactyl_manuform/4x5/keymaps/klbk)
+- Прошивка QMK для клавиатуры CORNE. [Репозитарий](https://github.com/utyv/qmk_firmware/tree/corne-klbk/keyboards/crkbd/keymaps/kolobok)
+- Прошивка QMK для клавиатуры TIGHTYL46. [Репозитарий](https://github.com/utyv/qmk_firmware/tree/tightyl-klbk/keyboards/tightyl46/keymaps/kolobok)
 
 ## Автор
 
